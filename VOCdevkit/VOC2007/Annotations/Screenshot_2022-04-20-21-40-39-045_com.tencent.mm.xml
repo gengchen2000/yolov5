@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Screenshot_2022-04-20-21-40-39-045_com.tencent.mm.jpg</filename>
+	<path>W:\TrainingSet\TrainingSetStudy\JPEGImages\Screenshot_2022-04-20-21-40-39-045_com.tencent.mm.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>小可爱吖</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>476</ymin>
+			<xmax>1023</xmax>
+			<ymax>1776</ymax>
+		</bndbox>
+	</object>
+</annotation>

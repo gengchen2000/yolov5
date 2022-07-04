@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>wx_camera_1650957186175.jpg</filename>
+	<path>W:\TrainingSet\TrainingSetStudy\JPEGImages\wx_camera_1650957186175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>887</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>小可爱吖</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>465</ymin>
+			<xmax>716</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>

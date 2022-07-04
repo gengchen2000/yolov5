@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>mmexport1648308788452.jpg</filename>
+	<path>W:\TrainingSet\TrainingSetStudy\JPEGImages\mmexport1648308788452.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3376</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>小可爱吖</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1857</xmin>
+			<ymin>3776</ymin>
+			<xmax>2191</xmax>
+			<ymax>4076</ymax>
+		</bndbox>
+	</object>
+</annotation>
